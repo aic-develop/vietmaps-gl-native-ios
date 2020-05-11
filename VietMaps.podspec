@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "VietMaps"
-    s.version      = "0.1.0"
+    s.version      = "0.1.2"
     s.summary      = "VietMaps GL SDK For iOS"
     s.description  = "OpenGL-based vector map solution for iOS with full styling capabilities and Cocoa Touch APIs."
     s.homepage     = "https://docs.vietmaps.vn"
