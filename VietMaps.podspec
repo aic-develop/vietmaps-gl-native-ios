@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "Mapbox.framework"
     s.platform = :ios
     s.ios.deployment_target  = '9.0'
-    m.requires_arc = true
-    m.dependency "VietMapsMobileEvents", "0.1.0"
+    s.requires_arc = true
+    s.dependency "VietMapsMobileEvents", "0.1.0"
 end
